@@ -1,0 +1,8 @@
+
+number_of_add_grid : 1
+last_valid_frame : 15
+image_size_h : 300
+image_size_v : 300
+grid_num_h : 30
+grid_num_v : 30
+bbox2pix : false

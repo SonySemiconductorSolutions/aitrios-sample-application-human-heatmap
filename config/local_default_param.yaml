@@ -1,0 +1,8 @@
+
+number_of_add_grid : 1
+last_valid_frame : 600
+image_size_h : 1920
+image_size_v : 1080
+grid_num_h : 60
+grid_num_v : 36
+bbox2pix : True
