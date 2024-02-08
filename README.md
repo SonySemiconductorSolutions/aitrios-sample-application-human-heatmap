@@ -32,7 +32,7 @@ None
 1. Clone or fork this application in your GitHub environment.
 2. Click the `+` button to create a codespace on the GitHub environment. See [how to create a codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository).
 > **Note**
-> Please select a machine type with 16 cores and 32GB of RAM for smmoth operation of the application.
+> Please select a machine type with 16 cores and 32GB of RAM for smooth operation of the application.
 3. Run the demo application using the following command
     ```
     python src/heat_map_app.py
